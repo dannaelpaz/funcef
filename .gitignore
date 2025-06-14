@@ -1,0 +1,4 @@
+pycache/
+*.pyc
+.dS_Store
+dados_salvos.csv
